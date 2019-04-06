@@ -1,0 +1,36 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: 最小生成树 - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\ADMINI~1\AppData\Local\Temp\RSP4C31.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /Fp"Debug/最小生成树.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"D:\文件\编程\C++\作业\大二课设\最小生成树\tu.cpp"
+]
+Creating command line "cl.exe @C:\Users\ADMINI~1\AppData\Local\Temp\RSP4C31.tmp" 
+Creating temporary file "C:\Users\ADMINI~1\AppData\Local\Temp\RSP4C32.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/最小生成树.pdb" /debug /machine:I386 /out:"Debug/最小生成树.exe" /pdbtype:sept 
+".\Debug\StdAfx.obj"
+".\Debug\tu.obj"
+".\Debug\最小生成树.obj"
+".\Debug\最小生成树Dlg.obj"
+".\Debug\最小生成树.res"
+]
+Creating command line "link.exe @C:\Users\ADMINI~1\AppData\Local\Temp\RSP4C32.tmp"
+<h3>Output Window</h3>
+Compiling...
+tu.cpp
+Linking...
+
+
+
+<h3>Results</h3>
+最小生成树.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
